@@ -1,0 +1,39 @@
+.mainnav li{
+    display: inline;
+    padding: .5em;
+  }
+
+#u li {
+    display: inline;
+    padding: .5em; 
+}
+
+.grid {
+    float: left;
+    height: 600px;
+    width: 30%;
+    padding: 10pc;
+    margin: 30px;
+   }
+
+#grid1 {
+    background-image: url(https://i.pinimg.com/474x/b0/51/41/b051414af86eb76960f74582db8daca3--italian-fashion-dolce-gabbana.jpg)
+}
+
+#grid2 {
+    background-image: url(http://thezoereport.com/wp-content/uploads/2016/09/dolce-gabbana-milan-runway-ss17-600x900.jpg)
+}
+
+#grid3 {
+    background-image: url(http://www.mosaicartnow.com/wp-content/uploads/2013/02/Facebook3.jpg)
+}
+
+#grid4 {
+    background-image: url(http://newyorkmodelsblog.com/wp-content/uploads/2014/09/sanne_dolce_gabbana_ss15_mfw_new_york_models.jpg)
+}
+
+
+#footer {
+    background-color: #f7ca18;
+    height: 100px;
+}

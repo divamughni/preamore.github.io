@@ -1,0 +1,34 @@
+.mainnav li{
+    display: inline;
+    padding: .5em;
+  }
+
+.grid {
+    float: left;
+    height: 800px;
+    width: 30%;
+    padding: 10pc;
+    margin: 30px;
+   }
+
+#grid1 {
+    background-image: url(https://static.zara.net/photos///2019/V/0/1/p/6895/042/305/2/w/560/6895042305_1_1_1.jpg?ts=1549048181154)
+}
+
+#grid2 {
+    background-image: url(https://static.zara.net/photos///2019/V/0/1/p/2031/398/038/2/w/560/2031398038_1_1_1.jpg?ts=1542278229791)
+}
+
+#grid3 {
+    background-image: url(https://static.zara.net/photos///2019/V/0/1/p/7147/026/427/2/w/560/7147026427_1_1_1.jpg?ts=1552296067377)
+}
+
+#grid4 {
+    background-image: url(https://static.zara.net/photos///2019/V/0/1/p/5584/153/630/2/w/560/5584153630_2_1_1.jpg?ts=1561454771497)
+}
+
+
+#footer {
+    background-color: #f7ca18;
+    height: 100px;
+}

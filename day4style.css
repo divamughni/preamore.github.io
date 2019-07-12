@@ -1,0 +1,41 @@
+.carousel-item {
+    width: 100%;
+}
+
+.carousel-inner{
+    width:100%;
+    max-height: 600px !important;
+}
+
+
+#grids {
+    display: flex;
+    }
+
+.grid {
+    float: left;
+    height: 50vh;
+    width: 50%;
+    padding: 10pc;
+    margin: 50px;
+   }
+
+#grid1 {
+    background-image: url(http://www.lebook.com/sites/default/files/styles/showcase_image_large/public/zara-spring-summer-2019-campaign07.jpg?itok=a2Y1_0Uv)
+}
+
+#grid2 {
+    background-image: url(http://www.ontomywardrobe.com/wp-content/uploads/2018/04/2018_m04_d19_Cover_DG_Mexico-350x350.png)
+}
+h3 {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h4 {
+    text-align: center;
+}
+
+.mainnav li{
+    display: inline;
+    padding: .5em;
+}
